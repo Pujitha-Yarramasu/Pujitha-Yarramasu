@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pujitha Yarramasu
 - 🌱 I’m currently learning Python, Azure functions
+- 💬 Ask me about C#
 - 📫 How to reach me yupujitha1996@gmail.com
 
 <!---
